@@ -1,6 +1,6 @@
 # Forkify
 
-Forkify is a Javascript project that uses vanilla javascript advanced concepts such as async wait localstorage and javascipt modules using webpack as its bundler and babel to compile down ES-NEXT to ES-5. It uses a [food-to-fork api](https://forkify-api.herokuapp.com) for its data.
+Forkify is a Javascript project that uses vanilla javascript advanced concepts such as async wait localstorage and javascipt modules using webpack as its bundler and babel to compile down ES-NEXT to ES-5. It uses [Forkify api](https://forkify-api.herokuapp.com) for its data.
 
 ## Image
 
